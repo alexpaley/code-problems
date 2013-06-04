@@ -30,4 +30,4 @@ def wordScramble(string):
         if anagram_hash[word] in dictionary_hash.keys():
             print word
 
-wordScramble('sunrise')
+wordScramble('dog')
